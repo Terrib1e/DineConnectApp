@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668107702633",
+    "project_id": "dineconnectapp",
+    "storage_bucket": "dineconnectapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668107702633:android:6f840349c2417a937e7df8",
+        "android_client_info": {
+          "package_name": "com.dineconnectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujU2rwjqntK606jZ6evVLQqdeUuxLg4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
